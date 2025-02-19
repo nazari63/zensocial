@@ -81,3 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please create an issue in the GitHub repository.
+This project is a demonstration of blockchain technology and smart contract integration.
